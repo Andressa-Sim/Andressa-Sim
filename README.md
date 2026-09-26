@@ -15,6 +15,12 @@
 - Suporte técnico e atendimento ao usuário
 - Metodologias Ágeis
 
+## 🌐 Meu portfólio
+
+Conheça meus projetos, habilidades e evolução profissional:
+
+🔗 [Acessar meu portfólio] https://andressa-sim.github.io/IPortifolio/
+
 ## Projetos em destaque
 
 🛒 **Comparador Inteligente de Compras**  
