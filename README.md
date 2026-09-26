@@ -29,6 +29,14 @@ Aplicação web que compara preços e prazos de entrega, indicando a opção com
 📋 **TaskFlow**  
 Sistema para cadastro, organização e acompanhamento de tarefas.
 
+### Monitor de Disponibilidade — Uptime Monitor
+
+Aplicação desenvolvida em Python para monitorar a disponibilidade de sites e serviços, facilitando a identificação de possíveis indisponibilidades.
+
+**Tecnologias:** Python, Flask, HTML e Docker
+
+[Ver código no GitHub](https://github.com/Andressa-Sim/uptime-monitor)
+
 ## Atualmente
 
 - Aprimorando meus conhecimentos em desenvolvimento web
